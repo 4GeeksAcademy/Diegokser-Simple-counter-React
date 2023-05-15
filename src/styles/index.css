@@ -12,7 +12,10 @@
 */
 #reloj {
     font-size: 80px;
+    text-align: center;
 }
 .card {
-    width: 8em;
+    width: 8rem;
+    font-size: 90px;
+    text-align: center;
 }
